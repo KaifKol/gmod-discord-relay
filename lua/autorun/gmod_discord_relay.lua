@@ -1,6 +1,7 @@
 if SERVER then 
 	include("relay/sv_config.lua")
 	include("relay/sv_msgSend.lua")
+	include("relay/sv_liveChannels.lua")
 	include("relay/sv_msgGet.lua")
 
 	if Discord.language == "en" then

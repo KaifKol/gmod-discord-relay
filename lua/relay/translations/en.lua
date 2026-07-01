@@ -12,5 +12,9 @@ DiscordString = {
 	["disconnected"] = " disconnected",
 	["serverStarted"] = "Server Started!",
 	["serverShutdown"] = "The server has shut down",
-	["currentMapAlt"] = "Current Map - "
+	["currentMapAlt"] = "Current Map - ",
+
+	["channelOnline"] = "👥 Online: %d/%d",
+	["channelStatusOnline"] = "🟢 Server: Online",
+	["channelStatusOffline"] = "🔴 Server: Offline",
 }
